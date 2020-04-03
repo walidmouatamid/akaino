@@ -5,7 +5,7 @@ A Simple PHP Object Oriented MVC
 
 <h4>Features:</h4>
 <ul>
-    <li>Fonctionnality Hello world</li>
+    <li>Fonctionnality Hello</li>
     <li>Fonctionnality 2</li>
     <li>Fonctionnality 3</li>
 </ul>
