@@ -9,3 +9,14 @@ A Simple PHP Object Oriented MVC
     <li>Fonctionnality 2</li>
     <li>Fonctionnality 3</li>
 </ul>
+
+
+<code>Hello world this is code</code>
+
+<pre>
+<code>
+    public static void main(){
+        printf("Hello world");
+    }
+</code>
+</pre>
